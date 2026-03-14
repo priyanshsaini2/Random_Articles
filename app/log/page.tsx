@@ -1,5 +1,3 @@
-"use server";
-
 import Footer from '../../components/Footer';
 import { getHistory } from '../../lib/db';
 import { ExternalLink, Calendar } from 'lucide-react';
